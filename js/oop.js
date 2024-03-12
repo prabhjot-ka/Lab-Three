@@ -1,4 +1,4 @@
-const output = document.getElementById('output');
+const output1 = document.getElementById('output1');
 const output2 = document.getElementById('output2');
 
 /* STEP 1a: Create a new object using a regular function */
